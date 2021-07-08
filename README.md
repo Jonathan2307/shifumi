@@ -12,6 +12,8 @@
     <img src="./screens/screen-3.png" />
 </details>
 
-1. Just a mistake
+2. "Just a mistake"
 
 Let's consider the error (= the user did not choose one of the right choices) as a user mistake. Let's re-ask the user to choose one of the choices after displaying the error message.
+
+Bonus: use an early return to manage the errors.
