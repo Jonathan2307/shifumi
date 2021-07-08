@@ -1,7 +1,6 @@
 function shifumi() {
     const user_choice = ['rock', 'paper', 'scissors']
     const choice = prompt(`Choose one of the following : ${user_choice.join(', ')}.`)
-    console.log(user_choice.includes(choice))
     if (user_choice.includes(choice)) {
         alert(`Congratulations, you chose ${choice}`)
     } else {
