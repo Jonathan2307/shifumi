@@ -23,3 +23,14 @@
 3. Generate a random choice from a IA
 
 In order to play the game... you need an opponent right? Then, let's find create a random choice from the script.
+
+4. Create the game logic
+
+Who wins? Create the logic.
+
+5. Pull the response from an API
+
+Use the http://www.randomnumberapi.com/ in order to retrieve a random number to get the choice of the IA.
+
+To Be Continued...
+
