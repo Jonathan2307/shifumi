@@ -12,8 +12,14 @@
     <img src="./screens/screen-3.png" />
 </details>
 
-2. "Just a mistake"
+<details>
+    <summary>2. Recursivity</summary>
+    <p>
+    Let's consider the error (= the user did not choose one of the right choices) as a user mistake. Let's re-ask the user to choose one of the choices after displaying the error message.
+    Bonus: use an early return to manage the errors.
+    </p>
+</details>
 
-Let's consider the error (= the user did not choose one of the right choices) as a user mistake. Let's re-ask the user to choose one of the choices after displaying the error message.
+3. Generate a random choice from a IA
 
-Bonus: use an early return to manage the errors.
+In order to play the game... you need an opponent right? Then, let's find create a random choice from the script.
